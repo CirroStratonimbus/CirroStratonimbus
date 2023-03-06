@@ -6,6 +6,4 @@ One of my proudest projects was creating websites to display the works of aspiri
 
 I'm always seeking new challenges to improve my skills and stay current with the latest technologies. Currently, I'm learning about web accessibility, and I'm committed to ensuring that my work is accessible to all users.
 
-I'm now looking for a opportunities in the tech industry, where I can use my skills and passion to make a positive impact and continue to grow as a web developer. I'm a quick learner, and I'm always eager to take on new challenges.
-
 Aside from web development, I love cake and enjoy hiking :)
